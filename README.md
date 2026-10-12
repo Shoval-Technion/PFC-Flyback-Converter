@@ -2,7 +2,9 @@
 
 **Characterization, Analysis and Verification of a PFC Flyback Converter**  
 PEARL Power Electronics Laboratory | Spring 2026
+
 Project Team: Anat Rom, Shoval Buzaglo
+
 Academic Supervisor: Eric Herbelin
 
 
